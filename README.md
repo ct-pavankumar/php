@@ -6,6 +6,8 @@ Opend the below url
 http://localhost/pma/
 2)Enter Table Name and No. of Columns and then enter your field name and data type and data type lenght
 for eample if we want to create emp table 
-Table name as emp
+Table name as "emp"
 No. of Columns = 2 
-field name emp_id int-11 and emp_name varchar -150
+field name "emp_id" int-11 and "emp_name" varchar -150
+here our database name as "pma"
+Now goto phpmyadmin and then select your database we can see recenlty created table "emp"
